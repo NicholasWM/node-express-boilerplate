@@ -1,3 +1,5 @@
+https://medium.com/devc-kano/basics-of-authentication-using-passport-and-jwt-with-sequelize-and-mysql-database-748e09d01bab
+
 # Node Express Boilerplate
 
 ## This is a basic boilerplate for backend development with node and express
